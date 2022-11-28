@@ -1,0 +1,2 @@
+D:\Diverse\C++\.PROJECTS C++\ATM-Application\Debug\ATM-Application.exe
+D:\Diverse\C++\.PROJECTS C++\ATM-Application\Debug\ATM-Application.pdb
